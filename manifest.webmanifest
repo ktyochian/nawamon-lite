@@ -1,0 +1,1 @@
+{"name": "あつまれ！NawaMon シルエット軽量版", "short_name": "ナワモン影", "start_url": "./index.html", "scope": "./", "display": "standalone", "lang": "ja", "theme_color": "#086967", "background_color": "#f4f8f5", "icons": [{"src": "icon.png", "sizes": "any", "type": "image/png"}], "id": "./"}
